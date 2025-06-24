@@ -10,6 +10,8 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 
+html_favicon = '_static/fixmestick.png'
+
 html_js_files = [
     'livechat.js',
 ]
